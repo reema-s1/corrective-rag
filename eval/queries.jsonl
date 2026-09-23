@@ -1,0 +1,20 @@
+{"id": "c1", "expected": "correct", "query": "How do I factory reset my Nimbus Pod X earbuds?", "reference": "Hold the case button for 15 seconds until the light flashes amber three times."}
+{"id": "c2", "expected": "correct", "query": "How long does the Nimbus Watch 2 battery last in Power Saver mode?", "reference": "Up to 14 days."}
+{"id": "c3", "expected": "correct", "query": "Can I go swimming with my Nimbus Watch 2?", "reference": "Yes, it is rated 5 ATM, safe for pool or shallow open-water swimming, but not diving."}
+{"id": "c4", "expected": "correct", "query": "What is the service fee for an accidental damage repair under NimbusCare+?", "reference": "$49 per repair, up to two per year."}
+{"id": "c5", "expected": "correct", "query": "How many days do I have to return something I bought from the Nimbus online store?", "reference": "30 days from delivery."}
+{"id": "c6", "expected": "correct", "query": "Will the Nimbus Home Hub connect to my 5 GHz Wi-Fi network?", "reference": "No, it supports 2.4 GHz Wi-Fi only."}
+{"id": "c7", "expected": "correct", "query": "How much does express shipping cost from Nimbus?", "reference": "$12.99, arriving in 1-2 business days."}
+{"id": "c8", "expected": "correct", "query": "How many devices can Pod X be connected to at the same time?", "reference": "2 at a time (multipoint); it remembers up to 8."}
+{"id": "i1", "expected": "incorrect", "query": "What is the maximum charging power supported by USB Power Delivery 3.1 Extended Power Range?", "reference": "240 W."}
+{"id": "i2", "expected": "incorrect", "query": "Which historical figure is the Bluetooth technology named after?", "reference": "Harald Bluetooth (Harald Gormsson), a 10th-century Danish king."}
+{"id": "i3", "expected": "incorrect", "query": "What does 'IP' stand for in IP water-resistance ratings like IP68?", "reference": "Ingress Protection."}
+{"id": "i4", "expected": "incorrect", "query": "What new frequency band does Wi-Fi 6E add?", "reference": "The 6 GHz band."}
+{"id": "i5", "expected": "incorrect", "query": "Which organization develops and maintains the Matter smart-home standard?", "reference": "The Connectivity Standards Alliance (CSA), formerly the Zigbee Alliance."}
+{"id": "i6", "expected": "incorrect", "query": "Who shared the 2019 Nobel Prize in Chemistry for developing lithium-ion batteries?", "reference": "John B. Goodenough, M. Stanley Whittingham, and Akira Yoshino."}
+{"id": "i7", "expected": "incorrect", "query": "What is the capital city of Australia?", "reference": "Canberra."}
+{"id": "a1", "expected": "ambiguous", "query": "Does the Pod X support LE Audio, and what advantages does LE Audio have over classic Bluetooth audio?", "reference": "Yes, Pod X supports LE Audio with LC3; LE Audio offers better quality at lower bitrates / lower power, plus features like Auracast broadcast."}
+{"id": "a2", "expected": "ambiguous", "query": "My Nimbus Watch 2 is rated 5 ATM. What water depth is that equivalent to?", "reference": "5 ATM is roughly equivalent to 50 meters of static water pressure."}
+{"id": "a3", "expected": "ambiguous", "query": "Can the Nimbus Home Hub act as a Thread border router, and what is Thread?", "reference": "Yes; Thread is a low-power IPv6-based wireless mesh networking protocol for smart-home devices."}
+{"id": "a4", "expected": "ambiguous", "query": "The Pod X is IPX5. What IP rating would it need to be safe to submerge in water?", "reference": "Pod X is IPX5 (not submersible); IPX7 or higher is needed for immersion (IPX7 = up to 1 m for 30 minutes)."}
+{"id": "a5", "expected": "ambiguous", "query": "Can I charge the Pod X case on a Qi2 wireless charger?", "reference": "The case supports Qi wireless charging; Qi2 chargers are backward compatible with Qi, so yes (at standard Qi speed)."}

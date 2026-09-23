@@ -1,0 +1,17 @@
+[project]
+name = "crag"
+version = "0.1.0"
+description = "Independent reimplementation of Corrective RAG (Yan et al., 2024)"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic", "openai", "fastapi", "uvicorn", "pydantic-settings",
+    "faiss-cpu", "numpy", "truststore", "scikit-learn", "ddgs", "httpx",
+]
+
+[project.optional-dependencies]
+st = ["sentence-transformers"]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "eval"]
+testpaths = ["tests"]
